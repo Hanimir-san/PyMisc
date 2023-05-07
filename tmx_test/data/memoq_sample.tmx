@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<tmx>
+  <header creationtool="MemoQ" creationtoolversion="9.12.9" segtype="sentence" adminlang="en-us" creationid="admin" srclang="en-us" o-tmf="MemoQTM" datatype="unknown">
+    <prop type="defclient"> </prop>
+    <prop type="defproject"> </prop>
+    <prop type="defdomain"> </prop>
+    <prop type="defsubject"> </prop>
+    <prop type="description"> </prop>
+    <prop type="targetlang">de-de</prop>
+    <prop type="name">sample.tmx</prop>
+  </header>
+  <body>
+    <tu changedate="20230131T064641Z" creationdate="20230131T064641Z" creationid="admin" changeid="admin">
+      <prop type="domain">Marketing</prop>
+      <prop type="client">DPDHL</prop>
+      <prop type="aligned">no</prop>
+      <prop type="subject">Website</prop>
+      <prop type="corrected">no</prop>
+      <prop type="x-document">sample_ref_trans.xlsx</prop>
+      <prop type="project">LDM 2022</prop>
+      <tuv xml:lang="en-us">
+        <seg><ph>&lt;mq:rxt displaytext="Deutsche Post DHL Group" val="Deutsche Post DHL Group" /&gt;</ph> - at a glance </seg>
+      </tuv>
+      <tuv xml:lang="de-de">
+        <seg><ph>&lt;mq:rxt displaytext="Deutsche Post DHL Group" val="Deutsche Post DHL Group" /&gt;</ph> auf einen Blick </seg>
+      </tuv>
+    </tu>
+    <tu changedate="20230131T064646Z" creationdate="20230131T064646Z" creationid="e.wilke" changeid="e.wilke">
+      <prop type="x-document">sample_ref_trans.xlsx</prop>
+      <prop type="corrected">no</prop>
+      <prop type="project">LDM 2022</prop>
+      <prop type="client">DPDHL</prop>
+      <prop type="subject">Website</prop>
+      <prop type="aligned">no</prop>
+      <prop type="domain">Marketing</prop>
+      <tuv xml:lang="en-us">
+        <seg><ph>&lt;mq:rxt displaytext="Deutsche Post DHL Group" val="Deutsche Post DHL Group" /&gt;</ph>is the world's <bpt i='1'>&lt;rpr id=&quot;0&quot;&gt;</bpt><bpt i='2' type='bold'>{}</bpt>leading logistic company<ept i='1'>&lt;/rpr id=&quot;0&quot; transform=&quot;close&quot;&gt;</ept><ept i='2'>{}</ept>.</seg>
+      </tuv>
+      <tuv xml:lang="de-de">
+        <seg><ph>&lt;mq:rxt displaytext="Deutsche Post DHL Group" val="Deutsche Post DHL Group" /&gt;</ph> ist der weltweit <bpt i='1'>&lt;rpr id=&quot;0&quot;&gt;</bpt><bpt i='2' type='bold'>{}</bpt>führende Logistikanbieter.<ept i='1'>&lt;/rpr id=&quot;0&quot; transform=&quot;close&quot;&gt;</ept><ept i='2'>{}</ept></seg>
+      </tuv>
+    </tu>
+    <tu changedate="20220131T064654Z" creationdate="20230131T064654Z" creationid="e.wilke" changeid="e.wilke">
+      <prop type="corrected">no</prop>
+      <prop type="subject">Website</prop>
+      <prop type="project">LDM 2022</prop>
+      <prop type="domain">Marketing &amp; sales</prop>
+      <prop type="aligned">no</prop>
+      <prop type="x-document">sample_ref_trans.xlsx</prop>
+      <prop type="client">DPH+</prop>
+      <tuv xml:lang="en-us">
+        <seg>The Group connects people and markets and is an enabler of global trade.</seg>
+      </tuv>
+      <tuv xml:lang="de-de">
+        <seg>Der Konzern verbindet Menschen und Märkte und ermöglicht den globalen Handel.</seg>
+      </tuv>
+    </tu>
+    <tu changedate="20230131T064658Z" creationdate="20230131T064658Z" creationid="admin" changeid="admin">
+      <prop type="x-document">sample_ref_trans.xlsx</prop>
+      <prop type="corrected">no</prop>
+      <prop type="subject">Website</prop>
+      <prop type="project">LDM 2022</prop>
+      <prop type="aligned">no</prop>
+      <prop type="client">DB</prop>
+      <prop type="domain">Technical documentation</prop>
+      <tuv xml:lang="en-us">
+        <seg>It aspires to be the first choice for customers, employees and investors worldwide.</seg>
+      </tuv>
+      <tuv xml:lang="de-de">
+        <seg>Er verfolgt die strategischen Ziele, weltweit erste Wahl für Kunden, Arbeitnehmer und Investoren zu sein.</seg>
+      </tuv>
+    </tu>
+    <tu changedate="20230131T064704Z" creationdate="20230131T064704Z" creationid="e.wilke" changeid="e.wilke">
+      <prop type="x-document">sample_ref_trans.xlsx</prop>
+      <prop type="client">DB</prop>
+      <prop type="corrected">no</prop>
+      <prop type="subject">Website</prop>
+      <prop type="project">LDM 2023</prop>
+      <prop type="domain">Technical documentation</prop>
+      <prop type="aligned">no</prop>
+      <tuv xml:lang="en-us">
+        <seg>To this end, <ph>&lt;mq:rxt displaytext="Deutsche Post DHL Group" val="Deutsche Post DHL Group" /&gt;</ph> is focusing on growth in its profitable core logistics businesses and accelerating the digital transformation in all business divisions.</seg>
+      </tuv>
+      <tuv xml:lang="de-de">
+        <seg>Dazu konzentriert sich <ph>&lt;mq:rxt displaytext="Deutsche Post DHL Group" val="Deutsche Post DHL Group" /&gt;</ph> auf Wachstum in seinen profitablen Logistik-Kerngeschäften und die Beschleunigung der digitalen Transformation in allen Unternehmensbereichen.</seg>
+      </tuv>
+    </tu>
+    <tu changedate="20230131T064709Z" creationdate="20230131T064709Z" creationid="e.wilke" changeid="e.wilke">
+      <prop type="x-document">sample_ref_trans.xlsx</prop>
+      <prop type="aligned">no</prop>
+      <prop type="corrected">no</prop>
+      <prop type="subject">Documentation</prop>
+      <prop type="project">LDM 2023</prop>
+      <prop type="domain">Training</prop>
+      <prop type="client">DB</prop>
+      <tuv xml:lang="en-us">
+        <seg>The Group contributes to the world through sustainable business practices, corporate citizenship and environmental activities.</seg>
+      </tuv>
+      <tuv xml:lang="de-de">
+        <seg>Mit nachhaltigem, unternehmerischen Handeln sowie dem Engagement für Gesellschaft und Umwelt leistet der Konzern einen positiven Beitrag für die Welt.</seg>
+      </tuv>
+    </tu>
+    <tu changedate="20230131T064714Z" creationdate="20230131T064714Z" creationid="e.wilke" changeid="e.wilke">
+      <prop type="x-document">sample_ref_trans.xlsx</prop>
+      <prop type="aligned">no</prop>
+      <prop type="corrected">no</prop>
+      <prop type="subject">Documentation</prop>
+      <prop type="project">LDM 2023</prop>
+      <prop type="client">Loctimize</prop>
+      <prop type="domain">Training</prop>
+      <tuv xml:lang="en-us">
+        <seg>By the year 2050, <ph>&lt;mq:rxt displaytext="Deutsche Post DHL Group" val="Deutsche Post DHL Group" /&gt;</ph> aims to achieve zero emissions logistics.</seg>
+      </tuv>
+      <tuv xml:lang="de-de">
+        <seg>Bis 2050 strebt <ph>&lt;mq:rxt displaytext="Deutsche Post DHL Group" val="Deutsche Post DHL Group" /&gt;</ph> die Null-Emissionen-Logistik an.</seg>
+      </tuv>
+    </tu>
+    <tu changedate="20230131T064714Z" creationdate="20230131T064714Z" creationid="e.wilke" changeid="e.wilke">
+      <prop type="x-document">sample_ref_trans.xlsx</prop>
+      <prop type="aligned">no</prop>
+      <prop type="corrected">no</prop>
+      <prop type="subject">Documentation</prop>
+      <prop type="project">LDM 2023</prop>
+      <prop type="client">Loctimize</prop>
+      <prop type="domain">Training</prop>
+      <tuv xml:lang="en-us">
+        <seg>By the year 2050, Deutsche Post DHL Group aims to achieve zero emissions logistics.</seg>
+      </tuv>
+      <tuv xml:lang="de-de">
+        <seg>Die Deutsche Post DHL Group strebt bis 250 die Null-Emissionen-Logistik an.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

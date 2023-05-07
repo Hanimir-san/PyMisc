@@ -1,0 +1,6 @@
+lxml==4.9.2
+pandas==2.0.1
+spacy==3.5.2
+
+en-core-web-lg @ https://github.com/explosion/spacy-models/releases/download/en_core_web_lg-3.5.0/en_core_web_lg-3.5.0-py3-none-any.whl
+de-core-news-lg @ https://github.com/explosion/spacy-models/releases/download/de_core_news_lg-3.5.0/de_core_news_lg-3.5.0-py3-none-any.whl
